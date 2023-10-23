@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">restaurantMenue</string>
+    <string name="welcome">Wellcome to</string>
+    <string name="restaurantName">
+        Lundie Restaurant</string>
+    <string name="apetizer">Apetizer</string>
+    <string name="main_course">Main Course</string>
+    <string name="dessert">Dessert</string>
+    <string name="apetizer_1">Caprese Salad</string>
+    <string name="apetizer_2">Spinach and Artichoke Dip</string>
+    <string name="apetizer_3">Crispy Calamari</string>
+    <string name="main_course_1">Grilled Salmon</string>
+    <string name="main_course_2">Filet Mignon</string>
+    <string name="main_course_3">Vegetable Stir-Fry</string>
+    <string name="dessert_1">Chocolate Lava Cake</string>
+    <string name="dessert_2">Tiramisu</string>
+    <string name="dessert_3">Key Lime Pie</string>
+    <string name="apetizer_1_description">
+        Fresh mozzarella, ripe tomatoes, and basil leaves drizzled with balsamic glaze and extra virgin olive oil.
+    </string>
+    <string name="apetizer_2_description">
+        Creamy blend of spinach, artichokes, and Parmesan cheese served with warm tortilla chips.
+    </string>
+    <string name="apetizer_3_description">
+        Tender calamari rings lightly battered and fried to perfection, served with a zesty marinara dipping sauce.
+    </string>
+    <string name="main_course_1_description">
+        Fresh salmon fillet grilled to perfection, topped with lemon-dill sauce, and served with steamed asparagus and garlic mashed potatoes.
+    </string>
+    <string name="main_course_2_description">
+        Juicy, tender filet mignon steak cooked to your liking, served with a red wine reduction sauce, roasted Brussels sprouts, and truffle mashed potatoes.
+    </string>
+    <string name="main_course_3_description">
+        Sautéed seasonal vegetables and tofu or your choice of protein, tossed in a savory stir-fry sauce and served over jasmine rice.
+    </string>
+    <string name="dessert_1_description">
+        Warm, molten chocolate cake with a gooey center, served with a scoop of vanilla ice cream and drizzled with raspberry coulis.
+    </string>
+    <string name="dessert_2_description">
+        Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese, dusted with cocoa powder.
+    </string>
+    <string name="dessert_3_description">
+        Refreshing key lime pie with a graham cracker crust, topped with whipped cream and lime zest.
+    </string>
+
+
+</resources>
